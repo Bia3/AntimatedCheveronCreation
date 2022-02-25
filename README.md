@@ -81,8 +81,11 @@ We then want to
   y="42" />
 ```
 ## Animating the SVG
-![](chervrons.svg)
+![The Completed SVG](chervrons.svg)
 
-<iframe
-src="https://codepen.io/sean_r/codepen/embed/preview/bGYjzEr"
-style="width:100%; height:300px;"></iframe>
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="bGYjzEr" data-user="sean_r" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/sean_r/pen/bGYjzEr">
+  Animated Chevrons</a> by Sean (<a href="https://codepen.io/sean_r">@sean_r</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
